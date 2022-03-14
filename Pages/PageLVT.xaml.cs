@@ -12,22 +12,17 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using Demo_Ushakov.AppData;
-using Demo_Ushakov.Pages;
 
-namespace Demo_Ushakov
+namespace Demo_Ushakov.Pages
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для PageLVT.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class PageLVT : Page
     {
-        public MainWindow()
+        public PageLVT()
         {
             InitializeComponent();
-
-            FrameObj.frameMain = frmMain;
-            frmMain.Navigate(new PageButton1());
         }
     }
 }
