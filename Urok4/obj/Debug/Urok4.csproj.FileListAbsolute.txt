@@ -1,0 +1,17 @@
+C:\Users\aerod\source\repos\Urok4\Urok4\bin\Debug\Urok4.exe.config
+C:\Users\aerod\source\repos\Urok4\Urok4\bin\Debug\Urok4.exe
+C:\Users\aerod\source\repos\Urok4\Urok4\bin\Debug\Urok4.pdb
+C:\Users\aerod\source\repos\Urok4\Urok4\obj\Debug\Urok4.csproj.AssemblyReference.cache
+C:\Users\aerod\source\repos\Urok4\Urok4\obj\Debug\MainWindow.g.cs
+C:\Users\aerod\source\repos\Urok4\Urok4\obj\Debug\App.g.cs
+C:\Users\aerod\source\repos\Urok4\Urok4\obj\Debug\Urok4_MarkupCompile.cache
+C:\Users\aerod\source\repos\Urok4\Urok4\obj\Debug\Urok4_MarkupCompile.lref
+C:\Users\aerod\source\repos\Urok4\Urok4\obj\Debug\MainWindow.baml
+C:\Users\aerod\source\repos\Urok4\Urok4\obj\Debug\Urok4.g.resources
+C:\Users\aerod\source\repos\Urok4\Urok4\obj\Debug\Urok4.Properties.Resources.resources
+C:\Users\aerod\source\repos\Urok4\Urok4\obj\Debug\Urok4.csproj.GenerateResource.cache
+C:\Users\aerod\source\repos\Urok4\Urok4\obj\Debug\Urok4.csproj.CoreCompileInputs.cache
+C:\Users\aerod\source\repos\Urok4\Urok4\obj\Debug\Urok4.exe
+C:\Users\aerod\source\repos\Urok4\Urok4\obj\Debug\Urok4.pdb
+C:\Users\aerod\source\repos\Urok4\Urok4\obj\Debug\WindowLegent.g.cs
+C:\Users\aerod\source\repos\Urok4\Urok4\obj\Debug\WindowLegent.baml

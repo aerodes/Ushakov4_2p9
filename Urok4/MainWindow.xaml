@@ -1,0 +1,22 @@
+﻿<Window x:Class="Urok4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Urok4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Login" FontSize="32"/>
+                <TextBox Name="txtlog" Width="150" Height="40" Margin="53 0 0 0"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Password" FontSize="32"/>
+                <TextBox Name="txtpass" Width="150" Height="40"/>
+            </StackPanel>
+            <Button Name="btnAuth" Content="Войти" Width="150" Height="30" Margin="0 20 0 0" Click="btnAuth_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
