@@ -31,9 +31,8 @@ namespace Urok4
             if (txtlog.Text == log & txtpass.Text == log)
             {
                 WindowLegent windowLegent = new WindowLegent();
-                MainWindow mainWindow = new MainWindow();
                 windowLegent.Show();
-                mainWindow.Close();
+                Close();
             }
             else
             {
